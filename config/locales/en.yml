@@ -1,0 +1,10 @@
+en:
+  project_module_archive: Archive
+  project_module_archives: Archive
+  label_archive_plural: Archive
+  label_archive_container: Source
+  label_archive_container_type: Source Type
+  label_archive_filename: File Name
+  label_archive_filesize: File Size
+  label_archive_content_type: Content Type
+  label_archive_description: Description

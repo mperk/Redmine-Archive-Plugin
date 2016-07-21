@@ -1,0 +1,15 @@
+tr:
+  project_module_archive: Arşiv
+  project_module_archives: Arşiv
+  label_archive_plural: Arşiv
+  label_archive_container: Kaynak
+  label_archive_container_type: Kaynak Tipi
+  label_archive_filename: Dosya Adı
+  label_archive_filesize: Dosya Boyutu
+  label_archive_content_type: İçerik Tipi
+  label_archive_description: Açıklama
+  label_archive_issue: İş
+  label_archive_document: Belgeler
+  label_archive_container_deleted: Kaynak Silinmiş
+  permission_view_archives: Arşivi görme
+
